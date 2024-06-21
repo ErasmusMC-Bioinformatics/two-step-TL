@@ -1,7 +1,7 @@
-# two-step-TL
+# Two-step-TL
 Here we deposit the code and the models (weights) of the implementation of the framework "Two-step transfer learning improves deep learning-based drug response prediction in small datasets: A case study of glioblastoma". The goal of the study is to investigate how transfer learning (TL) alleviates the small sample size problem. A two-step TL framework was constructed for a difficult task: predicting the response of the drug temozolomide (TMZ) in glioblastoma (GBM) cell cultures.
 
-# data
+# Data
 Three publicly available datasets were used in the study. 
 GDSC dataset contains 558-710 cell cultures from 20-32 tissue sites (including GBM) treated by TMZ, Bortezomib, Cyclophosphamide and Oxaliplatin, respectively.
 HGCC contains 83 GBM cell cultures treated by TMZ.
