@@ -6,9 +6,9 @@ Three publicly available datasets were used in the study.
 
 GDSC dataset contains RNA expressions of 558-710 cell cultures from 20-32 tissue sites (including GBM) treated by TMZ, Bortezomib, Cyclophosphamide and Oxaliplatin, respectively.
 
-HGCC contains RNA expressions of 83 GBM cell cultures treated by TMZ.
+HGCC contains RNA expressions of 83 GBM cell cultures treated by TMZ (preprocessed as shown in the R script).
 
-GSE232173 contains RNA expressions of 22 GBM cell cultures treated by TMZ.
+GSE232173 contains RNA expressions of 22 GBM cell cultures treated by TMZ (preprocessed as shown in the R script).
 
 # Experiments
 The two-step TL consists of three parts. The python code and the weights extracted from each step of the DL models are deposit here.
