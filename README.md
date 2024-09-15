@@ -11,7 +11,7 @@ HGCC contains RNA expressions of 83 GBM cell cultures treated by TMZ (preprocess
 GSE232173 contains RNA expressions of 22 GBM cell cultures treated by TMZ (preprocessed as shown in the R script).
 
 # Experiments
-The two-step TL consists of three parts. The python code and the weights extracted from each step of the DL models are deposit here.
+The two-step TL consists of three parts. The python code and the weights extracted from each step of the DL models are deposit here. (Some output were muted due to the size limitation)
 
 First, the DL models were pre-trained on the cell cultures treated by each of the four drugs from GDSC, respectively. Refered as Experiment 1 in the manuscript.
 
